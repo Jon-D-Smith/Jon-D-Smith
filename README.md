@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I can solve a rubiks cube in less than a minute**
 
+- :computer: I'm currently working on a year of code. I'm making at least one push to GitHub every day!
+
 <h3 align="left">Languages, Libraries, and Frameworks:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

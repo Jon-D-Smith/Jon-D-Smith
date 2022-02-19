@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I can solve a rubiks cube in less than a minute**
 
-- :computer: I'm currently working on a year of code. I'm making at least one push to GitHub every day!
+- :computer: I just finished a year of code! Weather it was GitHub maintenance or full on programming, I spent the whole year programming every day!
 
 <h3 align="left">Languages, Libraries, and Frameworks:</h3>
 <p align="left">
